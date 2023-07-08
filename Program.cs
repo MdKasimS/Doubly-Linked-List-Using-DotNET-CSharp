@@ -147,7 +147,7 @@ internal class Program
                     Console.Clear();
                     break;
 
-                case 79: //it is hidden and only used for testing purpose. you can write your custom tests here. Take help ContinueTest() method see cler and neat output on console.
+                case 79: //It is hidden and only used for testing purpose. You can write your custom tests here. Take help ContinueTest() method see cler and neat output on console.
                     Console.Clear();
                     Console.WriteLine("Running Tests.....");
 
