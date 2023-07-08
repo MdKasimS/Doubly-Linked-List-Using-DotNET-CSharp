@@ -12,7 +12,7 @@ This is the simplest implementation of Singly Linked List data structure using C
 9. Exit Program
 
 What it is and how it is?
-A DSA named namespace is created which have SLLNode and SinglyLinkedList public classes. This is to maintain all DSA related classes used in several data structure implementations.
+A DSA named namespace is created which have DLLNode and DoublyLinkedList public classes. This is to maintain all DSA related classes used in several data structure implementations.
 
 How to run this project?
 This repo can be cloned and run using "dotnet run" command on CMD.
